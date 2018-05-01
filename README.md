@@ -2,5 +2,5 @@
 
 MAGENTO 1.9
 
-View sql for 
-create view customer and catalog for ETL
+View sql customer and catalog  for ETL
+
