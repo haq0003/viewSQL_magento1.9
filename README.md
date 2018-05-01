@@ -1,5 +1,6 @@
 # viewSQL_magento1.9
 
-View sql for 
+MAGENTO 1.9
 
-listing customer / listing customer
+View sql for 
+create view customer and catalog for ETL
